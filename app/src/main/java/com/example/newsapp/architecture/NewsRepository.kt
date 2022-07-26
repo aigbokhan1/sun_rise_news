@@ -58,7 +58,7 @@ class NewsRepository {
         val newsList = MutableLiveData<List<NewsModel>>()
 
         val call = RetrofitHelper.getInstance().create(NewsApi::class.java)
-            .getNews("in", category, MainActivity.API_KEY) //put your api key here
+            .getNews("us", category, MainActivity.API_KEY) //put your api key here
 
         call.enqueue(object : Callback<NewsDataFromJson> {
             override fun onResponse(

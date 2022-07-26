@@ -16,6 +16,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.viewpager2.widget.ViewPager2
 import com.example.newsapp.adapters.FragmentAdapter
 import com.example.newsapp.architecture.NewsViewModel
+import com.example.newsapp.util.Constants
 import com.facebook.shimmer.ShimmerFrameLayout
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
@@ -28,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
         var APIRequestError = false
         var errorMessage = "error"
-        const val API_KEY = BuildConfig.API_KEY
+        const val API_KEY = Constants.API_KEY
         const val TOTAL_NEWS_TAB = 7
         const val TOP_HEADLINES_COUNT = 5
         const val GENERAL = "general"

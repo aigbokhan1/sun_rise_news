@@ -58,6 +58,24 @@
         <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/NewsApp/app/src/main/res/menu/menu_item_readnewsactivity.xml" value="0.22894736842105262" />
         <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.156" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/ic_baseline_bookmarks_24.xml" value="0.1735" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/ic_baseline_open_in_browser_24.xml" value="0.156" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/ic_baseline_play_circle_24.xml" value="0.156" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.156" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/drawable/overflow_menu.xml" value="0.156" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/activity_read_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/activity_saved_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/fragment_business.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/fragment_entertainment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/fragment_sports.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/fragment_tech.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/list_item_for_shimmer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/layout/list_item_for_top_headlines.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/menu/menu_item_mainactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/nn/AndroidStudioProjects/News-App/app/src/main/res/menu/menu_item_readnewsactivity.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

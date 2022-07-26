@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.newsapp.R
 import com.example.newsapp.MainActivity
 import com.example.newsapp.NewsModel
-import com.example.newsapp.R
 import com.squareup.picasso.Picasso
 
 
